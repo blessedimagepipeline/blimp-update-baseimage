@@ -4,6 +4,5 @@ pool:
 steps:
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
+    #call azure funtions with new tag argument
   displayName: 'Run a multi-line script'
